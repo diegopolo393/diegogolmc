@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "putorialesMC", "putorialesMC\putorialesMC.csproj", "{DD6EE454-B4C6-41DC-8945-C92AF9D74F54}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "putorialesMC.Web", "putorialesMC\putorialesMC.Web.csproj", "{DD6EE454-B4C6-41DC-8945-C92AF9D74F54}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
